@@ -1,0 +1,209 @@
+.dashboard-graphics-container {
+  min-height: 100vh;
+}
+.dashboard-graphics-dashboard-graphics {
+  width: 100%;
+  height: 609px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  max-width: 1200px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 0px 0px 0px 0px;
+  background-color: rgba(193, 193, 193, 1);
+}
+.dashboard-graphics-rectangle1 {
+  top: 0px;
+  left: 0px;
+  width: 186px;
+  height: 1024px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 16px;
+  margin-bottom: 0;
+}
+.dashboard-graphics-mani-area {
+  top: 86px;
+  left: 211px;
+  width: 1229px;
+  height: 938px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(255, 255, 255, 1);
+}
+.dashboard-graphics-profile {
+  top: 13px;
+  left: 1372px;
+  width: 55px;
+  height: 55px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.dashboard-graphics-user {
+  top: 0px;
+  left: 0px;
+  width: 55px;
+  height: 55px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+}
+.dashboard-graphics-connection-status {
+  top: 40px;
+  left: 36px;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+}
+.dashboard-graphics-configuration {
+  top: 23px;
+  left: 1321px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.dashboard-graphics-message {
+  top: 23px;
+  left: 1270px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.dashboard-graphics-notification {
+  top: 23px;
+  left: 1219px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.dashboard-graphics-search {
+  top: 19px;
+  left: 210px;
+  width: 631px;
+  height: 49px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 16px;
+  margin-bottom: 0;
+}
+.dashboard-graphics-profile1 {
+  top: 13px;
+  left: 1119px;
+  width: 55px;
+  height: 55px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.dashboard-graphics-user1 {
+  top: 0px;
+  left: 0px;
+  width: 55px;
+  height: 55px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+}
+.dashboard-graphics-connection-status1 {
+  top: 40px;
+  left: 36px;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+}
+.dashboard-graphics-configuration1 {
+  top: 23px;
+  left: 1068px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.dashboard-graphics-message1 {
+  top: 23px;
+  left: 1017px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.dashboard-graphics-nofication {
+  top: 23px;
+  left: 966px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  margin-bottom: 0;
+}

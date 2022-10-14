@@ -1,0 +1,81 @@
+.fondo {
+  align-items: flex-start;
+  background-color: silver;
+  border-radius: 19px;
+  border: 1px none;
+  display: flex;
+  height: 800px;
+  overflow: hidden;
+  width: 1400px;
+}
+
+.barmenu {
+  background-color: white;
+  border: 1px none;
+  border-radius: 16px;
+  height: 800px;
+  width: 186px;
+}
+
+.buscador {
+  align-self: flex-start;
+  border: 0px;
+  margin-top: 10px;
+  margin-left: 2px;
+}
+.btn_icon1 {
+  background-color: white;
+  margin-left: 290px;
+}
+.btn_icon2 {
+  background-color: white;
+  margin-left: 15px;
+}
+.icon {
+  background-color: white;
+}
+
+.imagenPerfil {
+  background-color: white;
+  margin-left: 15px;
+  margin-top: -5px;
+}
+
+.areatrabajo {
+  background-color: white;
+  border-radius: 16px;
+  height: 715px;
+  margin-top: 20px;
+  width: 1180px;
+}
+.btninicio {
+  align-self: flex-start;
+  display: flex;
+  margin-left: -20px;
+  margin-top: 67px;
+  min-width: 181px;
+}
+.btnmenu {
+  align-self: flex-start;
+  display: flex;
+  margin-left: -20px;
+  margin-top: 40px;
+  min-width: 181px;
+}
+
+.logo {
+  height: 127px;
+  object-fit: cover;
+  width: 109px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.tabla {
+  margin-left: 49px;
+  width: 1090px;
+}
+.unionup {
+  display: flex;
+  align-items: flex-end;
+}

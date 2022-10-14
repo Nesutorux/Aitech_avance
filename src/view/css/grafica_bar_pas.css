@@ -1,0 +1,25 @@
+.barra1 {
+  margin-top: 50px;
+  margin-left: 150px;
+}
+.barra2 {
+  margin-top: 50px;
+  margin-left: 50px;
+}
+.pastel1 {
+  margin-top: 50px;
+  margin-left: 250px;
+}
+.pastel2 {
+  margin-top: 50px;
+  margin-left: 50px;
+}
+.scroll-grafica {
+  position: relative;
+  height: 670px;
+  overflow-y: scroll;
+}
+.unionbarra {
+  display: flex;
+  align-items: flex-end;
+}

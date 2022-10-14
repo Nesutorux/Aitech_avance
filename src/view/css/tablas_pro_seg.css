@@ -1,0 +1,160 @@
+.tablero {
+  align-items: flex - start;
+  background-color: silver;
+  border-radius: 16px;
+  display: flex;
+  height: 1349px;
+  justify-content: flex - end;
+  min-width: 808px;
+  padding: 13px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.tabla {
+  height: 393px;
+  margin-left: 6px;
+  margin-top: 29px;
+  width: 737px;
+}
+.seccion {
+  background-color: white;
+  border-radius: 16px;
+  display: flex;
+  height: 250px;
+  width: 300px;
+  padding: 24px 21px;
+  margin-left: 30px;
+}
+.seccion2 {
+  background-color: white;
+  border-radius: 16px;
+  display: flex;
+  height: 200px;
+  width: 300px;
+  padding: 24px 21px;
+  margin-left: 30px;
+}
+
+.cir1 {
+  background-color: gray;
+  border: 1px none;
+  border-radius: 27.5px;
+  height: 55px;
+  width: 55px;
+}
+.cir2 {
+  background-color: green;
+  border: 1px none;
+  border-radius: 27.5px;
+  height: 55px;
+  margin-top: 50px;
+  width: 55px;
+}
+.cir3 {
+  background-color: blue;
+  border: 1px none;
+  border-radius: 27.5px;
+  height: 55px;
+  margin-top: 50px;
+  width: 55px;
+}
+
+.cir4 {
+  background-color: orange;
+  border-radius: 27.5px;
+  height: 50px;
+  width: 50px;
+}
+
+.cir5 {
+  background-color: red;
+  border: 1px none;
+  border-radius: 27.5px;
+  height: 55px;
+  margin-top: 50px;
+  width: 55px;
+}
+
+.notificacion-tabla {
+  background-color: white;
+  border-radius: 16px;
+  display: flex;
+  height: 300px;
+  min-width: 300px;
+  padding: 24px 21px;
+  margin-top: 300px;
+  margin-left: -180px;
+}
+.notificacion-tabla2 {
+  background-color: white;
+  border-radius: 16px;
+  display: flex;
+  height: 350px;
+  min-width: 300px;
+  padding: 24px 21px;
+  margin-top: 250px;
+  margin-left: -170px;
+}
+.scroll-tablas {
+  position: relative;
+  height: 670px;
+  overflow-y: scroll;
+}
+.scroll-notificacion {
+  position: relative;
+  height: 300px;
+  overflow-y: scroll;
+}
+.scroll-notificacion2 {
+  position: relative;
+  height: 350px;
+  overflow-y: scroll;
+}
+.union1 {
+  height: 50px;
+  display: flex;
+  align-items: flex-end;
+}
+.union2 {
+  height: 70px;
+  display: flex;
+  align-items: flex-end;
+}
+.unionnoti1 {
+  height: 50px;
+  display: flex;
+  align-items: flex-end;
+}
+.unionnoti2 {
+  height: 80px;
+  display: flex;
+  align-items: flex-end;
+}
+.unionbuscador {
+  height: 50px;
+  display: flex;
+  align-items: f;
+}
+.text-seccion {
+  margin-bottom: 15px;
+  margin-left: 25px;
+  text-align: center;
+}
+.checkbox {
+  margin-bottom: 15px;
+  margin-left: 25px;
+  text-align: center;
+}
+.scroll-noti {
+  position: relative;
+  height: 350px;
+  overflow-y: scroll;
+}
+.buttonpro1 {
+  height: 15px;
+  width: 15px;
+}
+.buttonpro2 {
+  height: 15px;
+  width: 15px;
+}

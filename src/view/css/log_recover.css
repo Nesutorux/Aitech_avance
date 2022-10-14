@@ -1,0 +1,44 @@
+.image {
+  height: 750px;
+  width: 600px;
+  margin-left: 250px;
+}
+.image2 {
+  height: 750px;
+  width: 600px;
+  margin-right: 150px;
+}
+
+.unionlogin {
+  display: flex;
+  align-items: flex-end;
+}
+.user {
+  margin-bottom: 50px;
+  margin-left: 150px;
+}
+.espacios {
+  margin-bottom: 70px;
+}
+.espacios2 {
+  margin-bottom: 200px;
+}
+.text {
+  margin-left: 50px;
+}
+.text2 {
+  margin-right: 50px;
+}
+.textlink {
+  margin-bottom: 12px;
+  margin-left: 60px;
+  margin-right: 90px;
+}
+.btningresar {
+  margin-top: 10px;
+  margin-left: 50px;
+}
+.btningresar2 {
+  margin-top: 10px;
+  margin-right: 50px;
+}
